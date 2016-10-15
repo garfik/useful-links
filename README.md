@@ -50,7 +50,7 @@ Frontdesk
   + [toastr](https://github.com/CodeSeven/toastr) - simple JavaScript toast notifications.
 
 + Testing frameworks
-  + [Jasmine](http://pivotal.github.com/jasmine/)
+  + [Jasmine](https://jasmine.github.io/)
   + [Mocha](http://visionmedia.github.com/mocha/)
   + [QUnit](http://qunitjs.com)
   + [Buster.js](http://busterjs.org)
