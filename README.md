@@ -51,7 +51,7 @@ Frontdesk
 
 + Testing frameworks
   + [Jasmine](http://pivotal.github.com/jasmine/)
-  + [Mocha](http://visionmedia.github.com/mocha/)
+  + [Mocha](http://mochajs.org/)
   + [QUnit](http://qunitjs.com)
   + [Buster.js](http://busterjs.org)
   + [YUI Test](http://yuilibrary.com/yui/docs/test/)
