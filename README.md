@@ -51,7 +51,7 @@ Frontdesk
 
 + Testing frameworks
   + [Jasmine](http://pivotal.github.com/jasmine/)
-  + [Mocha](http://visionmedia.github.com/mocha/)
+  + [Mocha](http://mochajs.org/)
   + [QUnit](http://qunitjs.com)
   + [Buster.js](http://busterjs.org)
   + [YUI Test](http://yuilibrary.com/yui/docs/test/)
@@ -350,7 +350,7 @@ Backend
         + Jasmine is a behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests.
     + [frisby.js](http://frisbyjs.com/)
         + Frisby is a REST API testing framework built on node.js and Jasmine that makes testing API endpoints easy, fast, and fun.
-    + [mocha](http://visionmedia.github.io/mocha/)
+    + [mocha](http://mochajs.org/)
         + Mocha is a feature-rich JavaScript test framework running on node and the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases. Hosted on GitHub.
     + [lab](https://github.com/spumko/lab)
         + lab is a simple test utility for node. Unlike other test frameworks, lab does not attempt to cover many use cases or provide rich functionality and extensibility. In fact, this project started as a fork off mocha and was repeatedly refactored until only the very basic functionality was left which was then rewritten into a handful of functions.
