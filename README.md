@@ -50,7 +50,7 @@ Frontdesk
   + [toastr](https://github.com/CodeSeven/toastr) - simple JavaScript toast notifications.
 
 + Testing frameworks
-  + [Jasmine](http://pivotal.github.com/jasmine/)
+  + [Jasmine](https://jasmine.github.io/)
   + [Mocha](http://visionmedia.github.com/mocha/)
   + [QUnit](http://qunitjs.com)
   + [Buster.js](http://busterjs.org)
@@ -346,7 +346,7 @@ Backend
     + [APIeasy](https://github.com/flatiron/api-easy): A fluent (i.e. chainable) syntax for generating vows tests against RESTful APIs.
     + [Expresso](http://visionmedia.github.io/expresso/)
         + Expresso is a JavaScript TDD framework written for nodejs. Expresso is extremely fast, and is packed with features such as additional assertion methods, code coverage reporting, CI support, and more.
-    + [Jasmine](http://pivotal.github.io/jasmine/)
+    + [Jasmine](https://jasmine.github.io/)
         + Jasmine is a behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests.
     + [frisby.js](http://frisbyjs.com/)
         + Frisby is a REST API testing framework built on node.js and Jasmine that makes testing API endpoints easy, fast, and fun.
